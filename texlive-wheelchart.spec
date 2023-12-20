@@ -1,6 +1,6 @@
 Name:		texlive-wheelchart
-Version:	64373
-Release:	2
+Version:	69040
+Release:	1
 Summary:	Draw wheelcharts with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wheelchart
