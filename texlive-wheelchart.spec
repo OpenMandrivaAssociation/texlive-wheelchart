@@ -1,5 +1,5 @@
 Name:		texlive-wheelchart
-Version:	69040
+Version:	71928
 Release:	1
 Summary:	Draw wheelcharts with TikZ
 Group:		Publishing
