@@ -3,7 +3,7 @@ Version:	71928
 Release:	1
 Summary:	Draw wheelcharts with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wheelchart
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wheelchart
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wheelchart.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wheelchart.doc.r%{version}.tar.xz
